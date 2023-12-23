@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Tailored Solutions for Your Unique Needs",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Unleash the power of customization as we meticulously craft digital solutions specifically designed to address the unique challenges and objectives of your business. At Zuma Consults, we pride ourselves on understanding the intricacies of your organization, ensuring that our offerings align seamlessly with your vision and operational requirements.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Experience the advantage of swift and efficient project execution with Zuma Consults. Our seasoned team, backed by years of expertise, streamlines the development process, reducing time-to-market for your digital solutions. Stay ahead of the competition as we expedite the transformation of your ideas into fully functional, market-ready products.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Transparency and Collaboration",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Forge a partnership founded on transparency and active collaboration. At Zuma Consults, we prioritize clear and consistent communication throughout every phase of your project. Our commitment to keeping you informed and engaged ensures that you have full visibility into the development process, fostering trust and enabling us to align our efforts seamlessly with your goals.",
   },
 ];
 

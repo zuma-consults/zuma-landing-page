@@ -2,7 +2,11 @@ import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
 import card from "./card.png";
+import ZumaLogo from './zumalogo.png'
 import coinbase from "./coinbase.png";
+import HeroImg from './hero.svg'
+import Services from './services.svg'
+import Client from './client.svg'
 import dropbox from "./dropbox.png";
 import logo from "./logo.svg";
 import quotes from "./quotes.svg";
@@ -25,6 +29,10 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 
 export {
+  Client,
+  Services,
+  ZumaLogo,
+  HeroImg,
   airbnb,
   bill,
   binance,
