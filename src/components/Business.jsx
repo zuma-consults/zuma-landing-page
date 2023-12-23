@@ -23,7 +23,9 @@ const FeatureCard = ({ icon, title, content,index }) => (
 const Business = () => {
   return (
     <section className={layout.section} id="features">
-      <div className={layout.sectionInfo}>
+      <div 
+       data-aos="fade-right"
+      className={layout.sectionInfo}>
         <h1 className={`${styles.heading2} sm:leading-[80px] leading-[55px] `}>
           Zuma Consults Where
           <br className="sm:block hidden" /> Tech Dreams Take Flight
@@ -35,7 +37,9 @@ const Business = () => {
         </p>
         <Button styles="mt-10" />
       </div>
-      <div className={`${layout.sectionImg} flex-col text-white`}>
+      <div 
+      data-aos="fade-left"
+       className={`${layout.sectionImg} flex-col text-white`}>
         {features.map((feature) => (
           <FeatureCard key={feature.id} {...feature} />
         ))}

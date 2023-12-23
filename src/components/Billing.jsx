@@ -5,12 +5,16 @@ import {apple, Services, google} from '../assets'
 const Billing = () => {
   return (
     <section id='product' className={layout.sectionReverse}>
-      <div className={layout.sectionImgReverse}>
+      <div
+      data-aos="fade-right" 
+      className={layout.sectionImgReverse}>
         <img src={Services} alt="billing" className='w-[100%] h-[100%] relative z-[5]' />
         <div className='absolute z-[3] -left-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient'/>
         <div className='absolute z-[3] -left-1/2 buttom-0 w-[50%] h-[50%] rounded-full pink__gradient'/>
       </div>
-      <div className={layout.sectionInfo}>
+      <div 
+      data-aos="fade-left" 
+      className={layout.sectionInfo}>
         <h2 className={`${styles.heading2} sm:leading-[70px] leading-[55px]`}>
         Product Management and Excellence
 

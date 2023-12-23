@@ -5,7 +5,9 @@ import Button from './Button'
 
 const CardDeal = () =>  (
     <section className={layout.section}>
-      <div className={layout.sectionInfo}>
+      <div 
+      data-aos="fade-right"
+      className={layout.sectionInfo}>
         <h2 className={`${styles.heading2} sm:leading-[70px] leading-[55px]`}>
         Pixel-Perfect Web Design & Development
         </h2>
@@ -15,7 +17,9 @@ const CardDeal = () =>  (
         <Button styles={`mt-10`}/>
  
       </div>
-      <div className={layout.sectionImg}>
+      <div 
+      data-aos="fade-left"
+      className={layout.sectionImg}>
         <img src={Client} alt="card" className='w-[100%] h-[100%] relative z-[5]' />
 
       </div>

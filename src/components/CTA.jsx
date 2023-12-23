@@ -4,9 +4,11 @@ import Button from "./Button";
 
 const CTA = () => (
   <section
+  data-aos="fade-up"
     className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
   >
-    <div className="flex flex-1 flex-col">
+    <div 
+    className="flex flex-1 flex-col">
       <h1 className={`${styles.heading2} sm:leading-[100px] leading-[55px]`}>
         Let's try our service now!
       </h1>

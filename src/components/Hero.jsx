@@ -6,6 +6,7 @@ import GetStarted from "./GetStarted";
 const Hero = () => (
   <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>
     <div
+     data-aos="fade-right"
       className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}
     >
       <div className="flex flex-row item-center px-4 bg-gradient-to-l from-black via-gray-800 to-gray-900 rounded-[10px] mb-2 ">
@@ -39,7 +40,9 @@ const Hero = () => (
         </p>x
     
     </div>
-    <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`} >
+    <div 
+    data-aos="fade-left"
+     className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`} >
       <img src={HeroImg} alt="billing"
       style={{objectFit:'contain'}}
       className="w-[80%] h-[100%] relative z-[5]" />
