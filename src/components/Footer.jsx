@@ -6,11 +6,8 @@ import { footerLinks, socialMedia } from '../constants'
 const FooterPage = () =>  (
     <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
       <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
-        <div className='flex-1 flex flex-col justify-start mr-10'>
-          <img src={ZumaLogo} alt="logo" className='w-[200px] h-[150px] object-contain rounded-full' />
-          <p className={`${styles.paragraph} mt-4 max-[310px]`}>
-            A new way to make tech easy, reliable and secure.
-          </p>
+        <div className='flex-1 flex items-start justify-center mr-10'>
+          <img src={ZumaLogo} alt="logo" className='w-[200px] h-[200px] object-contain rounded-full' />
         </div>
         <div className='flex flex-[1.5] flex-row w-full justify-between flex-wrap md:mt-0 mt-10 '>
           {footerLinks.map((footerlink)=>(
