@@ -14,6 +14,7 @@ import {
   Footer,
   Testimonials,
   Hero,
+  Form,
 } from './components/index';
 
 function App() {
@@ -39,6 +40,7 @@ function App() {
           <Testimonials />
           <Clients />
           <CTA />
+          <Form />
           <Footer />
         </div>
       </div>

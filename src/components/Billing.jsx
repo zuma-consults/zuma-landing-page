@@ -4,7 +4,7 @@ import {apple, Services, google} from '../assets'
 
 const Billing = () => {
   return (
-    <section id='product' className={layout.sectionReverse}>
+    <section id='ourServices' className={layout.sectionReverse}>
       <div
       data-aos="fade-right" 
       className={layout.sectionImgReverse}>

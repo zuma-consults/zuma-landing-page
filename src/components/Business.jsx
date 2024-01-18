@@ -22,7 +22,7 @@ const FeatureCard = ({ icon, title, content,index }) => (
 
 const Business = () => {
   return (
-    <section className={layout.section} id="features">
+    <section className={layout.section} id="whyUs">
       <div 
        data-aos="fade-right"
       className={layout.sectionInfo}>
