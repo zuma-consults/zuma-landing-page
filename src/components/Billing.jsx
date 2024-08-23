@@ -20,7 +20,7 @@ const Billing = () => {
 
         </h2>
         <p  className={`${styles.paragraph} max-w-[80%] mt-5`}>
-        Boost your products to new heights with Zuma Consults' Product Prosperity Partners. We're your go-to team for making sure your products shine. From the first idea to the final launch, we handle the details, so you can focus on what you do best. Let's turn your product dreams into a success story together. 🚀 
+        Boost your products to new heights with Okike Consults' Product Prosperity Partners. We're your go-to team for making sure your products shine. From the first idea to the final launch, we handle the details, so you can focus on what you do best. Let's turn your product dreams into a success story together. 🚀 
 
         </p>
         {/* <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>

@@ -2,7 +2,7 @@ import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
 import card from "./card.png";
-import ZumaLogo from './zumalogo.png'
+import ZumaLogo from '/okike-logo2.svg'
 import coinbase from "./coinbase.png";
 import HeroImg from './hero.svg'
 import Services from './services.svg'

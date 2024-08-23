@@ -36,7 +36,7 @@ const Hero = () => (
       </h1> */}
       
         <p className={`${styles.paragraph} w-[100] mt-5`}>
-        Welcome to Zuma Consults, Your Trusted Partner in Digital Innovation! 🚀 With a legacy of over 10 years in expert consulting, we specialize in crafting bespoke digital solutions that transcend challenges and elevate innovation to new heights.
+        Welcome to Okike Consults, Your Trusted Partner in Digital Innovation! 🚀 With a legacy of over 10 years in expert consulting, we specialize in crafting bespoke digital solutions that transcend challenges and elevate innovation to new heights.
         </p>x
     
     </div>

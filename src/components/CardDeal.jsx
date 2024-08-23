@@ -12,7 +12,7 @@ const CardDeal = () =>  (
         Pixel-Perfect Web Design & Development
         </h2>
         <p className={`${styles.paragraph} max-w-[80%] mt-5`}>
-        Dive into the world of Web Wonders Crafting with Zuma Consults. Our expert designers and developers team up to create websites that are not just pretty, but powerful. From eye-catching visuals to smooth functionality, we turn your online presence into a masterpiece, ensuring your website stands out in the digital crowd.
+        Dive into the world of Web Wonders Crafting with Okike Consults. Our expert designers and developers team up to create websites that are not just pretty, but powerful. From eye-catching visuals to smooth functionality, we turn your online presence into a masterpiece, ensuring your website stands out in the digital crowd.
         </p>
         <Button styles={`mt-10`}/>
  

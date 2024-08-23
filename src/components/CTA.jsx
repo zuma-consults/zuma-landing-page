@@ -13,7 +13,7 @@ const CTA = () => (
         Let's try our service now!
       </h1>
       <p className={`${styles.paragraph} max-w-[50%] mt-5`}>
-        Dive into innovation with Zuma Consults Try our service now, request for a Demo and
+        Dive into innovation with Okike Consults Try our service now, request for a Demo and
         experience tech like never before🚀
       </p>
     </div>

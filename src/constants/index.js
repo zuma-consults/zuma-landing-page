@@ -46,21 +46,21 @@ export const features = [
     icon: star,
     title: "Tailored Solutions for Your Unique Needs",
     content:
-      "Unleash the power of customization as we meticulously craft digital solutions specifically designed to address the unique challenges and objectives of your business. At Zuma Consults, we pride ourselves on understanding the intricacies of your organization, ensuring that our offerings align seamlessly with your vision and operational requirements.",
+      "Unleash the power of customization as we meticulously craft digital solutions specifically designed to address the unique challenges and objectives of your business. At Okike Consults, we pride ourselves on understanding the intricacies of your organization, ensuring that our offerings align seamlessly with your vision and operational requirements.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "Experience the advantage of swift and efficient project execution with Zuma Consults. Our seasoned team, backed by years of expertise, streamlines the development process, reducing time-to-market for your digital solutions. Stay ahead of the competition as we expedite the transformation of your ideas into fully functional, market-ready products.",
+      "Experience the advantage of swift and efficient project execution with Okike Consults. Our seasoned team, backed by years of expertise, streamlines the development process, reducing time-to-market for your digital solutions. Stay ahead of the competition as we expedite the transformation of your ideas into fully functional, market-ready products.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Transparency and Collaboration",
     content:
-      "Forge a partnership founded on transparency and active collaboration. At Zuma Consults, we prioritize clear and consistent communication throughout every phase of your project. Our commitment to keeping you informed and engaged ensures that you have full visibility into the development process, fostering trust and enabling us to align our efforts seamlessly with your goals.",
+      "Forge a partnership founded on transparency and active collaboration. At Okike Consults, we prioritize clear and consistent communication throughout every phase of your project. Our commitment to keeping you informed and engaged ensures that you have full visibility into the development process, fostering trust and enabling us to align our efforts seamlessly with your goals.",
   },
 ];
 
@@ -68,7 +68,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Zuma Consults has been an invaluable partner in our tech journey. Their tailored solutions perfectly aligned with our business needs, and the level of transparency and collaboration throughout the project was exceptional. With over 10 years of expert consulting, Zuma Consults is indeed a trusted ally in the realm of digital innovation.",
+      "Okike Consults has been an invaluable partner in our tech journey. Their tailored solutions perfectly aligned with our business needs, and the level of transparency and collaboration throughout the project was exceptional. With over 10 years of expert consulting, Okike Consults is indeed a trusted ally in the realm of digital innovation.",
     name: "Adebayo Kunle",
     title: "CEO, TechSolutions Inc",
     img: maleProfile,
@@ -76,7 +76,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Working with Zuma Consults was a game-changer for us. Their commitment to swift and efficient project execution, backed by a seasoned team, significantly reduced our time-to-market. The level of professionalism and attention to detail in managing our products from ideation to launch has been unparalleled. Zuma Consults is the go-to team for turning tech dreams into reality.",
+      "Working with Okike Consults was a game-changer for us. Their commitment to swift and efficient project execution, backed by a seasoned team, significantly reduced our time-to-market. The level of professionalism and attention to detail in managing our products from ideation to launch has been unparalleled. Okike Consults is the go-to team for turning tech dreams into reality.",
     name: "Halima Abubakar",
     title: " Marketing Director, WebWonders Ltd",
     img: femaleProfile,
@@ -84,7 +84,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "Zuma Consults is not just a service provider; they are true partners in our digital success. Zuma Consults has consistently delivered pixel-perfect web design and development. Their ability to create visually stunning yet powerful websites has elevated our online presence, making us stand out in the crowded digital landscape.",
+      "Okike Consults is not just a service provider; they are true partners in our digital success. Okike Consults has consistently delivered pixel-perfect web design and development. Their ability to create visually stunning yet powerful websites has elevated our online presence, making us stand out in the crowded digital landscape.",
     name: "Kenneth Okoro",
     title: "CTO, InnovateTech Solutions",
     img: maleProfile,

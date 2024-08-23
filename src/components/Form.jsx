@@ -34,21 +34,21 @@ function Form() {
             required
             placeholder="Name"
             name="name"
-            className="rounded h-[50px] p-2"
+            className="rounded p-1"
           />
           <input
             type="email"
             required
             placeholder="Email"
             name="email"
-            className="rounded h-[50px] p-2"
+            className="rounded p-1"
           />
           <ValidationError prefix="Email" field="email" errors={state.errors} />
           <textarea
             rows={8}
             placeholder="Message"
             name="message"
-            className="rounded p-2"
+            className="rounded p-1"
           />
           <ValidationError
             prefix="Message"

@@ -13,7 +13,7 @@ const Testimonials = () =>  (
         </h1>
         <div className={`w-full md:mt-0 mt6`}>
            <p className={`${styles.paragraph} max-w-[90%] text-left`}>
-           Step into the age of Digital Dynamo Marketing with Zuma Consults. Our team of marketing maestros uses the latest digital tricks to boost your brand. From social media magic to search engine savvy, we'll make sure your message reaches the right audience at the right time. Let's ignite your online presence and take your brand to the next level.</p>
+           Step into the age of Digital Dynamo Marketing with Okike Consults. Our team of marketing maestros uses the latest digital tricks to boost your brand. From social media magic to search engine savvy, we'll make sure your message reaches the right audience at the right time. Let's ignite your online presence and take your brand to the next level.</p>
         </div>
 
       </div> */}

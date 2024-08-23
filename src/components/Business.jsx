@@ -27,13 +27,13 @@ const Business = () => {
        data-aos="fade-right"
       className={layout.sectionInfo}>
         <h1 className={`${styles.heading2} sm:leading-[80px] leading-[55px] `}>
-          Zuma Consults Where
+          Okike Consults Where
           <br className="sm:block hidden" /> Tech Dreams Take Flight
         </h1>
         <p className={`${styles.paragraph} max-w-[90%]`}>
-          Step into the future with Zuma Consults. We're not just reimagining
+          Step into the future with Okike Consults. We're not just reimagining
           tech; we're making it happen. Join us as we turn dreams into reality.
-          Innovate with us at zuma and let your tech journey take flight! 🚀
+          Innovate with us at Okike and let your tech journey take flight! 🚀
         </p>
         <Button styles="mt-10" />
       </div>
