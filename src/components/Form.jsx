@@ -6,9 +6,9 @@ import Loader from "./Loader";
 import { useForm, ValidationError } from "@formspree/react";
 
 function Form() {
-  const [state, handleSubmit] = useForm("xbjnlbqa");
+  const [state, handleSubmit] = useForm("manwlevq");
   if (state.succeeded) {
-    toast("Message Successfully sent! we will speak with you soon");
+    toast.success("Message Successfully sent! we will speak with you soon");
   }
 
   if (state.errors) {
